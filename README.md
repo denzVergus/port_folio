@@ -19,6 +19,6 @@
 ## Support and contact details
 {My contact details are:0728504985 on whatsapp and telegram and my linkedin link is .}
 ### License
-*{I used Mit licence}*
+*{I used Mit licence on development}*
 Copyright (c) {2022} **{Denis Kipchirchir & veeTech}**
   
