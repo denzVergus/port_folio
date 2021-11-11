@@ -4,7 +4,7 @@
 #### {This is my portfolio}, {07.11.2021}
 #### By **{Denis Kipchirchir & veeTech}**
 ## Description
-{This web contains my portfolio on my abilities in programming}
+{This web contains my portfolio on my abilities in programming. The link to my gh-pages is https://vergus866.github.io/port_folio/}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
