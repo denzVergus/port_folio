@@ -4,14 +4,14 @@
 #### {This is my portfolio}, {07.11.2021}
 #### By **{Denis Kipchirchir & veeTech}**
 ## Description
-{This web contains my portfolio on my abilities in programming. The link to my gh-pages is https://vergus866.github.io/port_folio/}
+{This web contains my portfolio on my abilities in programming. The link to my gh-pages is https://vergus866.github.io/port_folio/}https://vergus866.github.io/port_folio/
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
 * in a simple
 * easy-to-understand
 * format
-{To install this you will have to have chrome browser for it to run on either your phone tablet or PC}
+{To install this you will have to have chrome browser for it to run on either your phone tablet or Computer}
 ## Known Bugs
 {There are no known bugs and any bugs will be fixed on due time}
 ## Technologies Used
