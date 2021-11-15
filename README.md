@@ -11,7 +11,7 @@
 * in a simple
 * easy-to-understand
 * format
-{To install this you will have to have chrome browser for it to run on either your phone tablet or PC}
+{To install this you will have to have chrome browser for it to run on either your phone tablet or Computer}
 ## Known Bugs
 {There are no known bugs and any bugs will be fixed on due time}
 ## Technologies Used
